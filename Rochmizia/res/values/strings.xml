@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string translatable="false" name="app_name">AndoSyndicate</string>
+    <string translatable="false" name="action_settings">Settings</string>
+    <string translatable="false" name="sign_in">Sign In</string>
+    <string translatable="false" name="facebook">facebook</string>
+    <string translatable="false" name="twitter">twitter</string>
+    <string translatable="false" name="googleplus">googleplus</string>
+    <string translatable="false" name="skip">skip&gt;&gt;</string>
+    <string translatable="false" name="app_logo">app_logo</string>
+    
+    <string   translatable="false" name="app_id">384986628298341</string>
+     <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>UserName</item>
+        <item >Categories</item>
+        <item >Share</item>
+        <item >Help</item>
+        <item >Logout</item>
+        <item >Feedback</item>
+    </string-array>
+    
+    
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/user</item>
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_people</item>
+        <item>@drawable/ic_communities</item>
+        <item>@drawable/ic_pages</item>
+        <item>@drawable/feedback</item>
+    </array>
+    
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    
+    </resources>
